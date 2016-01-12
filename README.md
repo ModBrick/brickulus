@@ -8,7 +8,7 @@
 _____________________________________________________________________________________________________________________________
 #What is the Brickulus ?
 
-The brickulus is a 3d headset VR for smartphone based on cardboard made in LEGO
+The brickulus is a 3d headset VR for smartphone based on Google cardboard made in LEGO
 
          .-=========-.
          |() () () ()|
